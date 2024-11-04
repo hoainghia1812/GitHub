@@ -4,7 +4,8 @@ const AnhBay = () => {
   return (
     <div>
       và đó chính là em
-      thì là ai
+      chứ còn ai
+      
     </div>
   )
 }
