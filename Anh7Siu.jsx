@@ -8,6 +8,7 @@ const Anh7Siu = () => {
       muốn sốt rồi
       siu
       siu nữa
+      ok haha
     </div>
   )
 }
